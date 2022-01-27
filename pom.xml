@@ -49,8 +49,10 @@
     </build>
 
     <scm>
+        <connection>scm:git:https://github.com/mojohaus/PLUGIN_NAME.git</connection>
         <developerConnection>scm:git:git@github.com:marokanu/sfg-pet-clinic.git</developerConnection>
-    <tag>sfg-pet-clinic-0.0.6</tag>
+        <url>https://github.com/marokanu/sfg-pet-clinic.git</url>
+        <tag>HEAD</tag>
   </scm>
 
 </project>
